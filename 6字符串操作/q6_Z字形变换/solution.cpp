@@ -24,7 +24,7 @@ public:
         bool isback = false;
         int curnum = 0;
         string res;
-        if(strlength == 1)
+        if(numRows == 1)
         {
             return s;
         }
